@@ -171,7 +171,7 @@ const MemoryGame = () => {
 
       {won && (
         <>
-          <div className="mt-4 text-4xl font-bold text-green-600 animate-bounce">
+          <div className="mt-4 text-4xl font-bold text-white animate-bounce">
             You Won!
           </div>
           <div className="mt-2 text-lg text-gray-700 text-white">
